@@ -12,3 +12,5 @@ All India Hospitals Directory(With Complete Address and Geo Location)
 Information about Team Rhyzens(With Complete Individual Contact Details of Team Rhyzens)
 
 Rhyzens App is completely built by Javascript using React Native Framework compatible both by android and IOS
+
+APK:https://expo.io/artifacts/04aa8266-b49f-47aa-9463-9f2427495fa7
